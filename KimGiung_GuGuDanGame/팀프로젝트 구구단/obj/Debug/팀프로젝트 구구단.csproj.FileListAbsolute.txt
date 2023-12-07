@@ -1,0 +1,31 @@
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Form1.resources
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\source\repos\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\팀프로젝트 구구단\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Form1.resources
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\팀프로젝트 구구단\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe.config
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\bin\Debug\팀프로젝트 구구단.pdb
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.AssemblyReference.cache
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Properties.Resources.resources
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.GenerateResource.cache
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.csproj.CoreCompileInputs.cache
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.exe
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트 구구단.pdb
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.Gugudan.resources
+C:\Users\Com\Desktop\GGDG\wp\KimGiung_GuGuDanGame\팀프로젝트 구구단\obj\Debug\팀프로젝트_구구단.GameSelect.resources
